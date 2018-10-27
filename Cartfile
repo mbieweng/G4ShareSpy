@@ -1,2 +1,2 @@
-github "rsilvers129/LoopKit" "FPU-dev"
-github "rsilvers129/dexcom-share-client-swift" "carthage-recursive"
+github "mbieweng/LoopKit" "FPU-dev"
+github "mbieweng/dexcom-share-client-swift" "carthage-recursive"
