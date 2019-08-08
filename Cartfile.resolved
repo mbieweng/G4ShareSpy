@@ -1,2 +1,3 @@
-github "rsilvers129/LoopKit" "3dcf5e531b4ac5b41ac73e5a541802f78b1e9e69"
-github "rsilvers129/dexcom-share-client-swift" "e7a13b98a2864c3d4e38eec656ec444f7a30c6dd"
+github "LoopKit/LoopKit" "c8c4810de7171ecedc3f1eb003f3cb77bdd76015"
+github "LoopKit/dexcom-share-client-swift" "cdbb1cd19cf54b37add6d6c25300445a6abe24da"
+
